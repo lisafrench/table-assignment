@@ -1,0 +1,28 @@
+tr {
+  border-bottom: 1px solid lightgray;
+}
+
+tr:hover {
+  background-color: #dadada;
+}
+
+tr.available:hover {
+  background-color: #dadada;
+}
+
+tr.checked {
+  background-color: #b9ccb1;
+}
+
+td {
+  text-align: left;
+  padding: 0.5rem 1rem;
+}
+
+input {
+  cursor: pointer;
+}
+
+input[disabled] {
+  cursor: not-allowed;
+}

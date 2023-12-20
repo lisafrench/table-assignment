@@ -4,8 +4,8 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1 className="text-center">Table Assignment</h1>
-      <Table></Table>
+      <h1>Table Assignment</h1>
+      <Table />
     </>
   );
 }

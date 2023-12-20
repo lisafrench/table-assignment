@@ -1,0 +1,7 @@
+/* This is a file where utility styles can be kept. */
+/* Another example of a style that could be kept here would be: */
+/* a ".text-center" class with the styling of "text-align: center" */
+
+.text-capitalize {
+  text-transform: capitalize;
+}

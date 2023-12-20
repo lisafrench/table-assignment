@@ -1,0 +1,23 @@
+.actions span {
+  padding: 0.5rem 1rem;
+  float: left;
+}
+
+.actions a {
+  padding: 0.5rem 1rem;
+  float: left;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.actions span:first-child {
+  padding-left: 0;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  font-weight: bold;
+}
