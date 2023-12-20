@@ -2,7 +2,7 @@
 
 ## About
 
-This is a private repo for a job interview assignment.
+This is a repo for a job interview assignment. Any references to the company are not included in this work.
 
 ## Assignment Requirements
 
