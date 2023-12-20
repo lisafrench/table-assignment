@@ -1,7 +1,13 @@
+import Table from "./components/Table";
 import "./App.css";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <h1>Table Assignment</h1>
+      <Table></Table>
+    </>
+  );
 }
 
 export default App;
